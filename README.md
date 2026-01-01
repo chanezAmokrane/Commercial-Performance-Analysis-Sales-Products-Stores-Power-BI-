@@ -27,5 +27,22 @@ Le modèle de données repose sur plusieurs domaines fonctionnels :
 
 Les tables sont reliées afin de permettre des analyses croisées par période, produit et point de vente.
 Des contrôles de cohérence ont été réalisés avant l’analyse pour garantir la fiabilité des résultats.
+---
+## Executive Summary – Visual Overview
+
+### 1) Chiffre d’affaires global et comparaison CA vs N-1
+
+---
+
+### 2) Répartition du chiffre d’affaires par catégorie produit
+
+Ce graphique présente la répartition du chiffre d’affaires par catégorie de produit.  
+La catégorie **Computers** représente environ **57 %** du chiffre d’affaires total, suivie par **TV and Video** (environ **24 %**) et **Cell Phones** (environ **14 %**).  
+Les autres catégories contribuent de manière plus limitée au chiffre d’affaires global.
+
+---
+
+### 3) Répartition des boutiques par statut (actives vs inactives)
+
 
 
