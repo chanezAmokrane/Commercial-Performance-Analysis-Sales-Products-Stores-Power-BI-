@@ -32,6 +32,10 @@ Des contrôles de cohérence ont été réalisés avant l’analyse pour garanti
 ## Executive Summary – Visual Overview
 
 ### 1) Chiffre d’affaires global et comparaison CA vs N-1
+Ce graphique présente le chiffre d’affaires global ainsi que sa comparaison avec l’année précédente (CA-1).
+Le chiffre d’affaires total atteint 212,66 M, contre 102,75 M pour la période précédente, ce qui indique une évolution positive de la performance commerciale.
+
+<p align="center"> <img src="images/CA_CA-1.png" alt="Chiffre d’affaires global et comparaison CA vs N-1" width="600"> </p>
 
 ---
 
