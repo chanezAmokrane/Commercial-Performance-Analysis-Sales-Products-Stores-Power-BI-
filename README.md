@@ -58,4 +58,21 @@ Cela indique que le réseau de distribution est globalement opérationnel sur la
 
 <p align="center"> <img src="images/NB_boutique_par_status.png" alt="Répartition des boutiques par statut" width="500"> </p>
 
+## Analyse approfondie des insights
+
+### Insight 1 – Chiffre d’affaires vs nombre de ventes par catégorie produit
+
+Ce graphique compare le **chiffre d’affaires** et le **nombre de ventes** par catégorie de produit.  
+Il met en évidence des écarts significatifs entre le volume de ventes et la valeur générée selon les catégories.
+
+La catégorie **Computers** génère le chiffre d’affaires le plus élevé (environ **121 M**), tout en affichant également un volume de ventes important.  
+À l’inverse, la catégorie **Cell Phones** présente un nombre de ventes relativement élevé (environ **12K**) mais une contribution au chiffre d’affaires plus limitée (environ **29 M**).  
+Les catégories **Audio** et **Music, Movies and Audio Books** affichent à la fois des volumes de ventes et des niveaux de chiffre d’affaires faibles.
+
+Cette analyse montre que les catégories qui se vendent le plus ne sont pas nécessairement celles qui créent le plus de valeur.
+
+<p align="center">
+  <img src="images/CA_nb_vente_categorie_de_produit.png" alt="Chiffre d’affaires et nombre de ventes par catégorie produit" width="700">
+</p>
+
 
