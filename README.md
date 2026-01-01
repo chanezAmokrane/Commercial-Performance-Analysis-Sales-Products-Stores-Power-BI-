@@ -37,7 +37,7 @@ Le chiffre d’affaires total atteint 212,66 M, contre 102,75 M pour la période
 
 <p align="center"> <img src="images/CA_CA-1.png" alt="Chiffre d’affaires global et comparaison CA vs N-1" width="600"> </p>
 
----
+
 
 ### 2) Répartition du chiffre d’affaires par catégorie produit
 
@@ -50,7 +50,6 @@ Les autres catégories contribuent de manière plus limitée au chiffre d’affa
 </p>
 
 
----
 
 ### 3) Répartition des boutiques par statut (actives vs inactives)
 Ce graphique présente la répartition des boutiques selon leur statut d’activité.
